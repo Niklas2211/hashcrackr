@@ -5,11 +5,11 @@
 > ⚠️ **Disclaimer**: This tool is intended for **educational and ethical use only**. Do not use it on systems or data you do not own or have explicit permission to test. Unauthorized use is illegal and unethical.
 
 ### CLI Interface
-![CLI Interface](/doc/example-main.jpg)
+![CLI Interface](/doc/example-main.JPG)
 ---
 ### Example Brute Force Attack
-![Example Bruteforce Overview](/doc/example-brute.jpg)
-![Example Bruteforce Operation](/doc/example-brute-operation.jpg)
+![Example Bruteforce Overview](/doc/example-brute.JPG)
+![Example Bruteforce Operation](/doc/example-brute-operation.JPG)
 
 
 ---
