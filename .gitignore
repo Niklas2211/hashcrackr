@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.bak/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and debugging
+*.log
+*.out
+
+# MacOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Test coverage and pytest cache
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+.cache
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDEs / Tools
+.idea/
+*.swp
+*.swo
+
+# Wordlists or big input files (optional)
+wordlists/*.txt
+wordlists/*.zip
